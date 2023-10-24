@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+![Screenshot (294)]![Screenshot (292)](https://github.com/SH12517/ecommerce_med/assets/119481395/de8aa189-1300-4362-9850-934cddb1826f)
+(https://github.com/SH12517/ecommerce_med/assets/119481395/ed38465d-f359-4803-a542-792dd7dbc200)
 
 ### `npm start`
 
